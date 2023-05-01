@@ -57,4 +57,4 @@
 <img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=krsandeep1808&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsandeep1808&layout=compact">
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krsandeep1808&" alt="krsandeep1808" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham56-droid&" alt="krsandeep1808" /></p>
