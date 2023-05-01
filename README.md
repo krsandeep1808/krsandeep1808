@@ -52,7 +52,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsandeep1808" alt="Sandeep Kumar" />
 </a> 
 </p>
-
 <p  width="90px">
 <img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=krsandeep1808&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsandeep1808&layout=compact">
