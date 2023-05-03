@@ -47,14 +47,15 @@
 
 ## 📊 My Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsandeep1808&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Kumar" /> </p>
-<p align="left"> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krsandeep1808&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Kumar" /> </p>
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krsandeep1808" alt="Sandeep Kumar" />
 </a> 
 </p>
 
-<p  width="90px">
-<img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=krsandeep1808&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p  width="100%" align="center">
+<img margin="20px" src= "https://github-readme-stats.vercel.app/api?username=krsandeep1808&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
+<p  width="100%" align="center">
 <img margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsandeep1808&layout=compact">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krsandeep1808&" alt="Sandeep Kumar" /></p>
