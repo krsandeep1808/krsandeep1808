@@ -1,4 +1,4 @@
-<p align="center" width="100%" ><img width="50%" height="auto" align="center" src="https://media.tenor.com/A5eDh9nWrqYAAAAd/working-from.gif" height="175px"/></p>
+<img width="100%" height="auto"  src="/img/coding-freak.gif" />
 
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Sandeep✨</h1>
 
