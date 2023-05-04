@@ -37,7 +37,6 @@
 ## 🔎 Connect with me:<img height="70px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
 <p align="center">
 <a href="https://twitter.com/Sandeep17677151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sandeep Kumar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shubham.bawankar.129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sandeep Kumar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandeep-kumar-b8ab6b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Kumar" height="30" width="40" /></a>
 <a href="mailto:kumar1808sandeep@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/icons8-gmail.svg" alt="Sandeep Kumar" height="33" width="42" /></a>
 <a href="https://www.instagram.com/sandeepchaudhary289/?next=%2F" target="blank"><img align="center" src="https://github.com/krsandeep1808/krsandeep1808/blob/main/Instagram.png" alt="Sandeep Kumar" height="33" width="35" /></a>
