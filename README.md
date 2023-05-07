@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Sandeep Kumar (Sanu)✨</h1>
 
-
 -🔭 I’m currently a CSE student at Chandigard University<br/>
 - 🌱 I’m currently learning Webdevelopement and DSA<br/>
 - 👯 I’m looking to work on AI/ML<br/>
