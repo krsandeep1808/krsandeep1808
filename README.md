@@ -1,4 +1,4 @@
-<img width="100%" height="auto"  src="/img/coding-freak.gif" />
+<img width="100%" height="auto"  src="img/coding-freak.gif" />
 
 <h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Sandeep Kumar (Sanu)✨</h1>
 
